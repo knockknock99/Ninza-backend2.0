@@ -13,6 +13,7 @@ mongoose
   .catch(err => console.error('MongoDB connection error:', err));
 
 const UserSchema = new mongoose.Schema({
+  user_id:String,
   first_name: String,
   last_name: String,
   email: String,
