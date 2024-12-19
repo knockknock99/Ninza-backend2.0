@@ -8,9 +8,8 @@ This API allows managing user information, including creating, reading, updating
 
 ## Base URL
 ```
-http://localhost:<PORT>
+https://ninza-backend2-0.onrender.com
 ```
-The `<PORT>` defaults to `3000` or the value defined in the `PORT` environment variable.
 
 ---
 
